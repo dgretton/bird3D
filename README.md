@@ -1,5 +1,6 @@
 # Bird for BirdOS
 
+*Intuitive 3D pointing based on hand tracking for VR, AR, CAD, drone piloting, volumetric data and other settings for 3D user interfaces*
 *Aubrey Simonson and Dana Gretton*
 
 ## Introduction
